@@ -44,7 +44,7 @@ export function DashboardHeader() {
               </Button>
               <Button size="sm" className="bg-primary hover:bg-primary/90">
                 <Upload className="h-4 w-4 mr-2" />
-                {"Upload Data"}
+                {"Language"}
               </Button>
             </div>
           </div>
