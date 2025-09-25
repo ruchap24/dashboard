@@ -32,7 +32,7 @@ export function DashboardHeader() {
 
           <div className="flex items-center gap-4">
             <Badge variant="secondary" className="animate-pulse-glow">
-              {"System Active"}
+              {"Download"}
             </Badge>
 
             <div className="flex items-center gap-2">
@@ -43,7 +43,7 @@ export function DashboardHeader() {
                 <Settings className="h-4 w-4" />
               </Button>
               <Button size="sm" className="bg-primary hover:bg-primary/90">
-                <Upload className="h-4 w-4 mr-2" />
+                {/* <Upload className="h-4 w-4 mr-2" /> */}
                 {"Language"}
               </Button>
             </div>
