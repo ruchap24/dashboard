@@ -14,7 +14,7 @@ export default function CropMonitoringDashboard() {
           <DevelopmentSteps />
         </aside>
       </div>
-      <P> Made by Rucha</P>
+      <h3> Made by Rucha</h3>
     </div>
   )
 }
