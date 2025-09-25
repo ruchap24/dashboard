@@ -24,7 +24,7 @@ export function DashboardHeader() {
                 <Leaf className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground">{"AI-Powered Crop Monitoring"}</h1>
+                <h1 className="text-xl font-bold text-foreground">{"Innovexa"}</h1>
                 <p className="text-sm text-muted-foreground">{"Multispectral Analysis & Sensor Data Platform"}</p>
               </div>
             </div>
