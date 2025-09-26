@@ -1,6 +1,6 @@
 import { DashboardHeader } from "@/components/dashboard-header"
 import { DashboardGrid } from "@/components/dashboard-grid"
-import { DevelopmentSteps } from "@/components/development-steps"
+// import { DevelopmentSteps } from "@/components/development-steps"
 
 export default function CropMonitoringDashboard() {
   return (
