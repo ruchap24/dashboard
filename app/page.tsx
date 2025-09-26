@@ -10,9 +10,9 @@ export default function CropMonitoringDashboard() {
         <main className="flex-1 p-6">
           <DashboardGrid />
         </main>
-        <aside className="w-80 border-l border-border bg-card p-4">
+        {/* <aside className="w-80 border-l border-border bg-card p-4">
           <DevelopmentSteps />
-        </aside>
+        </aside> */}
       </div>
     </div>
   )
